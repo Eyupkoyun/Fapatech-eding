@@ -1,0 +1,8 @@
+.list, .list li {
+    list-style-type: none;
+}
+
+.readonly {
+    pointer-events: none; /* Kullanıcı tıklayamaz */
+    background-color: #eeeeee; /* Daha açık bir renk göstermek için (isteğe bağlı) */
+}
